@@ -14,7 +14,7 @@
     height: 50px;
     background-color: silver;
     float: left;
-    border: black sol;
+    border: black solid;
 }
 #info{
     text-decoration: none;
